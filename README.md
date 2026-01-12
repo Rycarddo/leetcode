@@ -1,3 +1,3 @@
 # My leetcode solutions
 
-That's it.
+Trying at least one leetcode per day.
